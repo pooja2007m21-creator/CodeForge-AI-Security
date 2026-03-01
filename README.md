@@ -1,4 +1,4 @@
-# CodeForge-AI-Security
+# CoreForge-AI-Security
 AI powered privacy- first cybersecurity system
 # CodeForge AI Security Prototype
 # Single-file demo: AI-based Phishing URL Detector
